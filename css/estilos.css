@@ -1,0 +1,120 @@
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	background:url(../imagenes/ladrillos.jpg);
+	color:black;
+}
+h2,h1 {
+	color:#778899;
+}
+h1 {
+	font-size:25px;
+	background:url(../imagenes/hiper.jpg);
+	font-weight:bold;
+	text-align:center;
+	text-decoration:underline;
+    width:70%;
+	margin:10px 20px;
+	padding:10px;
+    border:2px solid #000;
+
+}
+h2 {
+	font-size:25px;
+	background:url(../imagenes/hiper.jpg);
+	text-align:center;
+	text-decoration:underline;
+    width:70%;
+	font-weight:bold;
+	margin:10px 20px;
+	padding:10px;
+    border:2px solid #000;
+
+}
+p{
+	background:url(../imagenes/hiper.jpg);
+	font-size:18px;
+	font-family:"arial";
+	text-align:left;
+	color:white; 
+	width:70%;
+	margin:10px 20px;
+	padding:10px;
+	border:2px solid #000;
+	display:inline-block;
+}    
+a {
+	background:#3BA7E1;
+	color:red;
+	font-size:20px;
+	padding:10px 20px;
+	margin:5px 350px;
+	display:line-block;
+	box-shadow:5px 5px 5px #3B91E1;
+	border:3px solid #000;
+}
+a:link {
+	color:DF1338;
+}
+a:hover {
+	text-decoration:underline;
+	background:#000;
+	color:#fff;	
+	box-shadow:2px 2px 2px 3B91E1;
+}
+  a:active {
+	background:#FF8000;
+	box-shadow:none;
+	
+  }
+div{
+	position:relative;
+	top:;
+	bottom:;
+	right:;
+	left:250px;
+}
+img {
+	width:350px;
+	height:auto;
+	border-radius:10px;
+	box-shadow:7px 7px 7px #424242;
+	padding:10px;
+	border:4px solid #000;
+}
+h3 {
+	font-size:30px;
+	background:red;
+	color:white;
+	padding:10px 30px;
+	margin:10px 300px;
+	display:line-block;
+	border:2px solid #000;
+	box-shadow:2px 2px 2px gray;
+	position:relative;
+	top:;
+	bottom:;
+	right:50px;
+	left:;
+	
+}
+h3:hover {
+	text-decoration:underline;
+	background:black;
+	color:red;	
+	box-shadow:7px 6px 6px gray;
+	
+}	
+h3:active {
+	background:orange;
+	color:black; 
+	box-shadow:7px 6px 6px orange;
+}
+h4 {
+	color:black;
+	font-size:20px;
+	
+}
+
